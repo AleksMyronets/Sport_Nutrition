@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AleksMyronets/Sport_Nutrition/static/css/main.7acaea2f.css",
+    "main.js": "/AleksMyronets/Sport_Nutrition/static/js/main.07d3183d.js",
+    "index.html": "/AleksMyronets/Sport_Nutrition/index.html",
+    "main.7acaea2f.css.map": "/AleksMyronets/Sport_Nutrition/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/AleksMyronets/Sport_Nutrition/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
